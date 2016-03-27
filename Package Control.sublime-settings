@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"DocBlockr",
+		"Emmet",
+		"ExpressComplete",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"JsFormat",
+		"JSHint",
+		"jshintify",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
