@@ -1,11 +1,14 @@
 {
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
-	"font_size": 16,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"predawn_sidebar_large": true,
 	"predawn_tabs_active_underline": true,
-	"theme": "predawn-DEV.sublime-theme"
+	"theme": "predawn-DEV.sublime-theme",
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 }
