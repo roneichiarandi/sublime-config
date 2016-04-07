@@ -4,6 +4,9 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 11,
+	"tab_completion": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
