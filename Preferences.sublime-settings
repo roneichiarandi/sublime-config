@@ -4,9 +4,6 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 11,
-	"tab_completion": true,
-	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -14,5 +11,8 @@
 	],
 	"predawn_sidebar_large": true,
 	"predawn_tabs_active_underline": true,
-	"theme": "predawn-DEV.sublime-theme"
+	"tab_completion": true,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true
 }
