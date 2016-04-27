@@ -29,6 +29,11 @@
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
 		"Terminal",
 		"TrailingSpaces"
 	]
