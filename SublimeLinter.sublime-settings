@@ -23,7 +23,7 @@
                 "excludes": []
             },
             "phpcs": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
                 "standard": "PSR2"
