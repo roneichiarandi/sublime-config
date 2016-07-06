@@ -1,3 +1,4 @@
 [
-	{ "keys": ["super+shift+k"], "command": "reindent", "args": {"single_line": false} }
+	{ "keys": ["super+shift+k"], "command": "reindent", "args": {"single_line": false} },
+	{ "keys": ["super+shift+w"], "command": "close_all" }
 ]

@@ -1,3 +1,5 @@
 [
-    { "keys": ["ctrl+\\"], "command": "toggle_sidebar_and_minimap" }
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+\\"], "command": "toggle_sidebar_and_minimap" },
+    { "keys": ["ctrl+shift+w"], "command": "close_all" }
 ]
