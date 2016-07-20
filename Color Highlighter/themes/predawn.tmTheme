@@ -36,6 +36,7 @@ COLOR KEY
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
+<<<<<<< Updated upstream
 <string>mcol_eb4312FF</string>
 <key>settings</key>
 <dict>
@@ -45,6 +46,17 @@ COLOR KEY
 <string>#471405FF</string>
 <key>caret</key>
 <string>#471405FF</string>
+=======
+<string>mcol_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11002244</string>
+<key>foreground</key>
+<string>#EEDDFFFF</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+>>>>>>> Stashed changes
 </dict>
 </dict>
 
@@ -52,6 +64,7 @@ COLOR KEY
 <key>name</key>
 <string>mon_text_color</string>
 <key>scope</key>
+<<<<<<< Updated upstream
 <string>mcol_text_eb4312FF</string>
 <key>settings</key>
 <dict>
@@ -61,6 +74,17 @@ COLOR KEY
 <string>#eb4312FF</string>
 <key>caret</key>
 <string>#471405FF</string>
+=======
+<string>mcol_text_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000001FF</string>
+<key>foreground</key>
+<string>#11002244</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+>>>>>>> Stashed changes
 </dict>
 </dict>
 
@@ -68,6 +92,7 @@ COLOR KEY
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
+<<<<<<< Updated upstream
 <string>mcol_bebebeFF</string>
 <key>settings</key>
 <dict>
@@ -189,6 +214,32 @@ COLOR KEY
 <string>#3fd1d6FF</string>
 <key>caret</key>
 <string>#0D3D3FFF</string>
+=======
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000001FF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
 </dict>
 </dict>
 
@@ -196,6 +247,104 @@ COLOR KEY
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11002344</string>
+<key>foreground</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11002244</string>
+<key>foreground</key>
+<string>#EEDDFFFF</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11002344</string>
+<key>foreground</key>
+<string>#11002244</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#11002244</string>
+<key>foreground</key>
+<string>#EEDDFFFF</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_text_color</string>
+<key>scope</key>
+<string>mcol_text_11002244</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#282829FF</string>
+<key>foreground</key>
+<string>#11002244</string>
+<key>caret</key>
+<string>#EEDDFFFF</string>
+>>>>>>> Stashed changes
+</dict>
+</dict>
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<<<<<<< Updated upstream
 <string>mcol_5cb85cFF</string>
 <key>settings</key>
 <dict>
@@ -205,6 +354,17 @@ COLOR KEY
 <string>#173517FF</string>
 <key>caret</key>
 <string>#173517FF</string>
+=======
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+>>>>>>> Stashed changes
 </dict>
 </dict>
 
@@ -212,15 +372,25 @@ COLOR KEY
 <key>name</key>
 <string>mon_text_color</string>
 <key>scope</key>
+<<<<<<< Updated upstream
 <string>mcol_text_5cb85cFF</string>
+=======
+<string>mcol_text_000000FF</string>
+>>>>>>> Stashed changes
 <key>settings</key>
 <dict>
 <key>background</key>
 <string>#282829FF</string>
 <key>foreground</key>
+<<<<<<< Updated upstream
 <string>#5cb85cFF</string>
 <key>caret</key>
 <string>#173517FF</string>
+=======
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+>>>>>>> Stashed changes
 </dict>
 </dict>
 
