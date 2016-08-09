@@ -14,7 +14,7 @@
                 "excludes": []
             },
             "jshint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
@@ -58,7 +58,7 @@
         "rc_search_limit": 3,
         "shell_timeout": 10,
         "show_errors_on_save": false,
-        "show_marks_in_minimap": true,
+        "show_marks_in_minimap": false,
         "syntax_map": {
             "php": "html"
         },
