@@ -17,6 +17,7 @@
 		"ExpressComplete",
 		"Git",
 		"GitGutter",
+		"GoSublime",
 		"Jade",
 		"JsFormat",
 		"JSX",
@@ -34,10 +35,6 @@
 		"Stylus",
 		"Stylus-Snippets",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-jshint",
-		"SublimeLinter-phplint",
-		"SublimeLinter-phpmd",
 		"Terminal",
 		"TrailingSpaces"
 	]
