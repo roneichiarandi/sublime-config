@@ -41,6 +41,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"Terminal",
+		"ToggleExclude",
 		"TrailingSpaces",
 		"Twig"
 	]
