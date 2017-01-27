@@ -25,17 +25,24 @@
 		"MarkdownEditing",
 		"Nodejs",
 		"Package Control",
+		"PackageResourceViewer",
+		"PhalconPHP Completions",
 		"PHP Companion",
 		"PHP Getters and Setters",
-		"Phpcs",
-		"PhpNamespace",
+		"php-snippets",
 		"PHPUnit Snippets",
 		"Predawn",
+		"ReactJS",
 		"SideBarEnhancements",
 		"Stylus",
 		"Stylus-Snippets",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
 		"Terminal",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Twig"
 	]
 }
