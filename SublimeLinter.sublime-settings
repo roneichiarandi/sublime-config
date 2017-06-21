@@ -7,6 +7,20 @@
         "gutter_theme_excludes": [],
         "lint_mode": "load/save",
         "linters": {
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [],
+                "excludes": [
+                    "*/vendor/*"
+                ],
+                "standard": "PSR2"
+            },
             "phpmd": {
                 "@disable": false,
                 "args": [],
@@ -41,6 +55,10 @@
             "python django": "python",
             "pythonimproved": "python"
         },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
         "warning_color": "DDB700",
         "wrap_find": true
     }

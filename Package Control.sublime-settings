@@ -17,6 +17,7 @@
 		"ExpressComplete",
 		"Git",
 		"GitGutter",
+		"Groovy Snippets",
 		"Jade",
 		"JsFormat",
 		"JSX",
@@ -29,8 +30,11 @@
 		"PHP Companion",
 		"PHP Getters and Setters",
 		"php-snippets",
-		"PHPUnit Snippets",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"phpunitkit",
 		"Predawn",
+		"Pretty JSON",
 		"ReactJS",
 		"SideBarEnhancements",
 		"Stylus",
@@ -43,6 +47,7 @@
 		"Terminal",
 		"ToggleExclude",
 		"TrailingSpaces",
-		"Twig"
+		"Twig",
+		"Xdebug Client"
 	]
 }
