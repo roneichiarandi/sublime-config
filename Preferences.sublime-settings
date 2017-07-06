@@ -51,12 +51,11 @@
 		"CVS",
 		".svn",
 		"bower_components",
-		"docs",
 		".git",
 		"build",
 		"node_modules"
 	],
-	"font_size": 9,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
