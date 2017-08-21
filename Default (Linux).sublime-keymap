@@ -9,6 +9,8 @@
     // { "keys": ["f4"], "command": "import_namespace" },
     { "keys": ["shift+f12"], "command": "goto_definition_scope" },
     { "keys": ["shift+f7"], "command": "insert_php_constructor_property" },
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
 
     //phpunit
     { "keys": ["f2"], "command": "phpunit_test_suite", "context": [{ "key": "setting.phpunit.keymaps" }] },

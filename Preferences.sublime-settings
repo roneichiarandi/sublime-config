@@ -67,5 +67,11 @@
 	"tab_completion": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true
+	"trim_automatic_white_space": true,
+	"rulers":
+    [
+        80,
+        100,
+        120
+    ],
 }
