@@ -8,6 +8,7 @@
     { "keys": ["f3"], "command": "implement" },
     { "keys": ["shift+f12"], "command": "goto_definition_scope" },
     { "keys": ["f7"], "command": "insert_php_constructor_property" },
+    { "keys": ["super+\\"], "command": "chain", "args": { "commands": [ ["toggle_minimap"], ["toggle_side_bar"]] }},
 
     { "keys": ["super+shift+up"], "command": "select_lines", "args": {"forward": false} },
     { "keys": ["super+shift+down"], "command": "select_lines", "args": {"forward": true} },

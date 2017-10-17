@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
@@ -48,8 +49,10 @@
 		"SublimeLinter-phpmd",
 		"Terminal",
 		"ToggleExclude",
+		"TOML",
 		"TrailingSpaces",
 		"Twig",
+		"Vue Syntax Highlight",
 		"Xdebug Client"
 	]
 }
